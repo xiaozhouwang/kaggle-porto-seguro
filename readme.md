@@ -22,6 +22,7 @@ lightgbm 2.0.10
 Put unzipped data in `input`
 
 `python nn_model290.py` to get a nn model that scores 0.290X
+
 `python gbm_model291.py` to get a gbm model that scores 0.291X
 
 *simple average of the two gives about 0.2939 on private LB, which is good enough for 2nd place*
