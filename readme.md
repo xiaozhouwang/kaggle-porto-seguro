@@ -21,6 +21,7 @@ lightgbm 2.0.10
 
 ### How to reproduce
 
+#### Simple solution (recommended)
 Put unzipped data in `input`
 
 *Generate a simple solution that is good enough for 2nd place (~0.2938 on private LB)*
@@ -35,6 +36,8 @@ Put unzipped data in `input`
 
 `python simple_average.py` and then you can find the submission file at `../model/simple_average.csv`
 
+
+#### Exact solution (Optional)
 
 Although not recommended but you can also reproduce the exact same solution we submitted.
 
