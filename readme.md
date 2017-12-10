@@ -40,7 +40,7 @@ You can reproduce this solution in a few hours.
 
 #### Exact solution (Optional)
 
-Although not recommended but you can also reproduce the exact same solution we submitted.
+Although not recommended but you can also reproduce the exact same solution we submitted (0.29413 on private LB).
 
 *you can follow these steps below, in addition to the simple solution*
 
