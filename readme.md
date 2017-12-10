@@ -35,7 +35,10 @@ Put unzipped data in `input`
 
 `python simple_average.py` and then you can find the submission file at `../model/simple_average.csv`
 
-*To reproduce the exact solution we submitted, you can follow these steps below, in addition to the simple solution*
+
+Although not recommended but you can also reproduce the exact same solution we submitted.
+
+*you can follow these steps below, in addition to the simple solution*
 
 ```
 cd ../code_for_exact_solution/
